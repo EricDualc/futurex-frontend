@@ -126,6 +126,10 @@ a.navbar-brand {
 .row-box.height2 {
   height: calc(50vh - 98px);
 }
+.row-box.height22 {
+  height: calc(50vh - 63px);
+}
+
 .row-box.height3 {
   height: calc(50vh - 81px);
 }
